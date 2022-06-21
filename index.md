@@ -7247,7 +7247,7 @@
                         <div class="col-12">
                             
                             
-                                <a href="/exams/microsoft/az-700/view/2/"
+                                <a href="\az-305.html"
                                    class="btn btn-success pull-right">Next Questions <i
                                         class="fa fa-arrow-right"></i></a>
                             
