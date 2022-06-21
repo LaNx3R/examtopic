@@ -7247,8 +7247,8 @@
                         <div class="col-12">
                             
                             
-                                <a href="\az-305.html"
-                                   class="btn btn-success pull-right">Next Questions <i
+                                <a href="https://lanx3r.github.io/examtopic/az-305.html"
+                                   class="btn btn-success pull-right">az-305<i
                                         class="fa fa-arrow-right"></i></a>
                             
                         </div>
