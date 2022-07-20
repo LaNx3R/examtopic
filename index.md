@@ -7,7 +7,7 @@
   <input type="button" onclick="location.href='https://lanx3r.github.io/examtopic/az-104.html';" value="AZ-104" />
   <input type="button" onclick="location.href='https://lanx3r.github.io/examtopic/az-305.html';" value="AZ-305" />
   <input type="button" onclick="location.href='https://lanx3r.github.io/examtopic/AZ700.html';" value="AZ-700" />
-
+  <input type="button" onclick="location.href='https://lanx3r.github.io/examtopic/MD100.html';" value="MD-100" />
   
 </body>
 </html>
